@@ -1,0 +1,8 @@
+.DS_Store
+build/
+*.app
+*.dmg
+*.zip
+DerivedData/
+*.xcuserstate
+__pycache__/
